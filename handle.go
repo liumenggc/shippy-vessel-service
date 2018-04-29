@@ -3,7 +3,7 @@ package main
 import (
 	"gopkg.in/mgo.v2"
 	"golang.org/x/net/context"
-	pb "github.com/liumeng/shippy-vessel-service/proto/vessel"
+	pb "github.com/liumenggc/shippy-vessel-service/proto/vessel"
 )
 
 // Our gRPC service handle
